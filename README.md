@@ -1,4 +1,4 @@
-# 👩‍💻 MissPakistan
+#  MissPakistan
 
 Full-stack & AI developer passionate about building intelligent, user-friendly applications.  
 Exploring **Computer Vision**, **Generative AI**, and **LLM integrations**.  
