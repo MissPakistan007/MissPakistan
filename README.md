@@ -5,7 +5,6 @@ Exploring **Computer Vision**, **Generative AI**, and **LLM integrations**.
 Open to **remote roles**, **collaborations**, and **freelance work**.
 
 
-
 ## 🚀 Current Projects
 - **Doctor Assistant (Computer Vision + LLM)**
 - **Chatbot**
@@ -15,7 +14,6 @@ Open to **remote roles**, **collaborations**, and **freelance work**.
 - **Brick Breaker Game**
 
 
-
 ## 💻 Skills & Interests
 - Backend systems, API development & real-time apps  
 - Computer Vision & AI-powered solutions  
@@ -23,11 +21,9 @@ Open to **remote roles**, **collaborations**, and **freelance work**.
 - Frontend with clean & responsive UI/UX  
 - Cybersecurity basics (TryHackMe)
 
-
 ## 🛠 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=ts,python,opencv,unity,postgres,cloudflare,aws,nextjs,prisma,react&perline=7)
-
 
 
 ## 🔗 Socials
@@ -38,13 +34,11 @@ Open to **remote roles**, **collaborations**, and **freelance work**.
 [![Dev Blog](https://img.shields.io/badge/Dev.Blog-000000?logo=dev.to&logoColor=white)](https://dev-blog-ebon.vercel.app/)
 
 
-
 ## 🌐 Portfolio & Contact
 
 - **Portfolio:** https://sawira-majeed.vercel.app/  
 - **Blog:** https://dev-blog-ebon.vercel.app/  
 - **Email:** **jiya59219@gmail.com**
-
 
 
 ## 🤝 Collaboration
